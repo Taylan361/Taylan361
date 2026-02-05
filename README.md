@@ -1,6 +1,6 @@
 ### Selamlar, ben Taylan Alp Çakı! 👋
 
-Yazılım Mühendisliği öğrencisiyim. Mobil uygulamalar geliştirmekten, algoritmik problemler çözmekten ve sistemlerin nasıl çalıştığını (OS, Database) derinlemesine incelemekten keyif alıyorum.
+Yazılım geliştirme tutkunu bir mühendisim. Web teknolojileri (Full Stack) ve mobil uygulama geliştirme üzerine projeler üretiyorum. Ayrıca siber güvenlik ve algoritmalarla yakından ilgileniyorum.
 
 ---
 
@@ -13,32 +13,31 @@ Yazılım Mühendisliği öğrencisiyim. Mobil uygulamalar geliştirmekten, algo
 
 ### 🛠️ Yetenekler & Teknoloji Yığını
 
+* **Web Geliştirme (Full Stack):** React.js, Node.js
 * **Mobil Geliştirme:** Flutter, Kotlin
 * **Backend & Veri:** SQL, Firebase, Python
-* **İlgi Alanları:** Siber Güvenlik, Algoritmalar, Yapay Zeka
-* **Araçlar & Platformlar:** Git, Linux (Bash), Mac
+* **Araçlar & Platformlar:** Git, Linux, Mac
+* **İlgi Alanları:** Siber Güvenlik, LeetCode (Algoritmalar)
 
 ---
 
-
 ### 📈 GitHub İstatistikleri
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taylan361&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="Taylan361 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taylan361&layout=compact&theme=dark&hide_border=true&locale=tr" alt="Top Languages" />
-</div>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Taylan361&show_icons=true&theme=radical&hide_border=true&locale=tr" alt="Taylan361 GitHub Stats" />
+</p>
 
 ---
 
 ### 🧩 LeetCode Çözümlerim
 
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=Taylan361&theme=dark" alt="LeetCode Stats" />
-</div>
+<p align="left">
+<img src="https://leetcard.jacoblin.cool/Taylan361?theme=radical&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
 ### 📫 İletişim
 
-* Benimle mobil projeler, backend mimarisi veya siber güvenlik üzerine konuşabilirsiniz.
+* Benimle React projeleri, mobil uygulamalar veya siber güvenlik üzerine konuşabilirsiniz.
 * [GitHub Profilim](https://github.com/Taylan361)
