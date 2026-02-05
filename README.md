@@ -11,33 +11,39 @@ Yazılım geliştirme tutkunu bir mühendisim. Web teknolojileri (Full Stack) ve
 
 ---
 
-### 🛠️ Yetenekler & Teknoloji Yığını
+### 💻 Seçilmiş Projeler
 
-* **Web Geliştirme (Full Stack):** React.js, Node.js
-* **Mobil Geliştirme:** Flutter, Kotlin
-* **Backend & Veri:** SQL, Firebase, Python
-* **Araçlar & Platformlar:** Git, Linux, Mac
-* **İlgi Alanları:** Siber Güvenlik, LeetCode (Algoritmalar)
+| Proje İsmi | Açıklama | Teknolojiler |
+| :--- | :--- | :--- |
+| [**🏠 TaylanHomes.com**](https://taylanhomes.com) | Modern arayüze sahip, filtreleme özellikli **Full-Stack emlak platformu.** | `React` `Node.js` `Firebase` |
+| [**🛡️ Sınav Güvenlik Sistemi**](https://examsec.vercel.app/) | Üniversite sınavlarını dijitalleştiren **Yapay Zeka (ML)** destekli güvenlik sistemi. | `React` `Flask` `Python` `ML` |
+| [**🧠 Kelime Zinciri**](https://kelimezinciri.com.tr) | Link üzerinden arkadaşlarınızla oynayabileceğiniz **gerçek zamanlı (real-time)** kelime oyunu. | `Flutter` `Dart` `Firebase` `HTML5` |
 
 ---
 
-### 📈 GitHub İstatistikleri
+### 📊 GitHub Analizi
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Taylan361&show_icons=true&theme=radical&hide_border=true&locale=tr" alt="Taylan361 GitHub Stats" />
-</p>
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Taylan361&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Taylan361&show_icons=true&theme=tokyonight)
+
+---
+
+### 🛠️ Yetenekler
+
+* **Web (Full Stack):** React.js, Node.js, HTML5, CSS3, JavaScript
+* **Mobil:** Flutter, Dart, Kotlin
+* **Backend & Veri:** SQL, Firebase, Python, Flask, PostgreSQL
+* **İlgi Alanları:** Siber Güvenlik, Algoritmalar
 
 ---
 
 ### 🧩 LeetCode Çözümlerim
 
-<p align="left">
-<img src="https://leetcard.jacoblin.cool/Taylan361?theme=radical&font=baloo&ext=heatmap" alt="LeetCode Stats" />
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Taylan361?theme=radical&font=baloo&ext=heatmap)
 
 ---
 
 ### 📫 İletişim
 
-* Benimle React projeleri, mobil uygulamalar veya siber güvenlik üzerine konuşabilirsiniz.
 * [GitHub Profilim](https://github.com/Taylan361)
