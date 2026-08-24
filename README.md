@@ -50,4 +50,6 @@ I build practical web and mobile products, with a particular interest in AI-powe
 
 Open to learning, collaborating and building useful products. Reach me at [taylanalp12@gmail.com](mailto:taylanalp12@gmail.com).
 
+![Profile views](https://komarev.com/ghpvc/?username=Taylan361&label=Profile%20views&color=0A66C2&style=flat)
+
 </div>
