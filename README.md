@@ -44,14 +44,7 @@ I build practical web and mobile products, with a particular interest in AI-powe
   - **Tools & platforms:** Git, Linux/Bash, PostgreSQL, Firebase, MongoDB, Roboflow, Figma
 </details>
 
-## GitHub activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Taylan361&show_icons=true&hide_title=true&theme=transparent&hide_border=true" alt="Taylan's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taylan361&layout=compact&theme=transparent&hide_border=true" alt="Taylan's most-used GitHub languages" />
-</p>
-
----
 
 <div align="center">
 
