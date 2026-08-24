@@ -1,49 +1,60 @@
-### Selamlar, ben Taylan Alp Çakı! 👋
+<div align="center">
 
-Yazılım geliştirme tutkunu bir mühendisim. Web teknolojileri (Full Stack) ve mobil uygulama geliştirme üzerine projeler üretiyorum. Ayrıca siber güvenlik ve algoritmalarla yakından ilgileniyorum.
+# Taylan Alp Çakı
+
+**Software Engineering Student · Full-stack & Flutter Developer**
+
+I build practical web and mobile products, with a particular interest in AI-powered applications and real-time experiences.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-taylanalpcaki.com-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://taylanalpcaki.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taylan_Alp_%C3%87akı-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylan-alp-%C3%A7akı/)
+[![Email](https://img.shields.io/badge/Email-taylanalp12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taylanalp12@gmail.com)
+
+</div>
+
+## About me
+
+- I am a third-year Software Engineering student at Maltepe University, Istanbul (expected graduation: June 2027).
+- I enjoy taking an idea from interface to deployment: responsive frontend work, backend integrations, data modelling and product polish.
+- I have experience building with JavaScript/React, Flutter, Python and modern cloud-backed databases.
+- I have contributed to automation workflows and industrial software integrations as a Software Development Intern at Intsoft Automation.
+
+## Featured projects
+
+| Project | What I built | Stack |
+| --- | --- | --- |
+| [**TUSXP**](https://tusxp.com) | A cross-platform mobile learning experience for medical students preparing for the TUS exam, featuring question banks, performance tracking and gamified learning. | `Flutter` `Dart` |
+| [**TaylanHomes**](https://taylanhomes.com) | A responsive full-stack real-estate platform for browsing and managing listings, with a secure admin dashboard and SEO-focused architecture. | `React` `Node.js` `PostgreSQL` |
+| [**Kelime Zinciri**](https://kelimezinciri.com.tr) | A cross-platform multiplayer word game with synchronized game state for concurrent players. | `Flutter` `Firebase Realtime Database` |
+| **Smart Road Safety System** | An AI-powered road-safety project developed by a five-person team for the Teknofest Turkcell 5G Challenge. I led model training and frontend development, including vehicle and in-vehicle cigarette detection. | `TensorFlow` `Roboflow` `YOLO26s` |
+
+## Tech I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,dart,kotlin,html,css,react,nodejs,flutter,flask,tensorflow,postgres,firebase,mongodb,git,linux,figma" alt="JavaScript, Python, Dart, Kotlin, HTML, CSS, React, Node.js, Flutter, Flask, TensorFlow, PostgreSQL, Firebase, MongoDB, Git, Linux and Figma" />
+</p>
+
+<details>
+  <summary><strong>More detail</strong></summary>
+
+  <br />
+
+  - **Languages:** JavaScript, Python, Dart, Kotlin, SQL, HTML/CSS
+  - **Frameworks & libraries:** React.js, Node.js, Flutter, Flask, TensorFlow
+  - **Tools & platforms:** Git, Linux/Bash, PostgreSQL, Firebase, MongoDB, Roboflow, Figma
+</details>
+
+## GitHub activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Taylan361&show_icons=true&hide_title=true&theme=transparent&hide_border=true" alt="Taylan's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taylan361&layout=compact&theme=transparent&hide_border=true" alt="Taylan's most-used GitHub languages" />
+</p>
 
 ---
 
-### 🌐 Sosyal Medya & Portfolyo
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylan-alp-%C3%A7ak%C4%B1-b99a983aa/)
-[![Portfolyo](https://img.shields.io/badge/Portfolyo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolyo-p7o9.vercel.app/)
+Open to learning, collaborating and building useful products. Reach me at [taylanalp12@gmail.com](mailto:taylanalp12@gmail.com).
 
----
-
-### 💻 Seçilmiş Projeler
-
-| Proje İsmi | Açıklama | Teknolojiler |
-| :--- | :--- | :--- |
-| [**🏠 TaylanHomes.com**](https://taylanhomes.com) | Modern arayüze sahip, filtreleme özellikli **Full-Stack emlak platformu.** | `React` `Node.js` `Firebase` |
-| [**🛡️ Sınav Güvenlik Sistemi**](https://examsec.vercel.app/) | Üniversite sınavlarını dijitalleştiren **Yapay Zeka (ML)** destekli güvenlik sistemi. | `React` `Flask` `Python` `ML` |
-| [**🧠 Kelime Zinciri**](https://kelimezinciri.com.tr) | Link üzerinden arkadaşlarınızla oynayabileceğiniz **gerçek zamanlı (real-time)** kelime oyunu. | `Flutter` `Dart` `Firebase` `HTML5` |
-
----
-
-### 📊 GitHub Analizi
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Taylan361&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Taylan361&show_icons=true&theme=tokyonight)
-
----
-
-### 🛠️ Yetenekler
-
-* **Web (Full Stack):** React.js, Node.js, HTML5, CSS3, JavaScript
-* **Mobil:** Flutter, Dart, Kotlin
-* **Backend & Veri:** SQL, Firebase, Python, Flask, PostgreSQL
-* **İlgi Alanları:** Siber Güvenlik, Algoritmalar
-
----
-
-### 🧩 LeetCode Çözümlerim
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Taylan361?theme=radical&font=baloo&ext=heatmap)
-
----
-
-### 📫 İletişim
-
-* [GitHub Profilim](https://github.com/Taylan361)
+</div>
